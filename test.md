@@ -1,2 +1,3 @@
-# it  is test file for lerning git and markdown
-___
+# it  is test file for learning git and markdown.
+___ 
+* to do
